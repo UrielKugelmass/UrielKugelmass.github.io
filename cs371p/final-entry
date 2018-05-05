@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+        <title>CS371p Spring 2018: Uriel Kugelmass</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+        <style>
+                body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+        </style>
+        <body class="w3-light-grey">
+
+                <div class="w3-content" style="max-width:1400px">
+
+                        <!-- Header -->
+                        <header class="w3-container w3-center w3-padding-32">
+                          <h1><b>Final Entry</b></h1>
+                            </header>
+
+                            <!-- Grid -->
+                            <div class="w3-row">
+
+                                    <!-- Blog entries -->
+                                    <div class="w3-col l8 s12">
+                                        <!-- Blog entry -->
+                                        <div class="w3-card-4 w3-margin w3-white">
+                                        <div class="w3-container">
+                                                <h3><b>BLOG ENTRY</b></h3>
+                                                <h5>Date: <span class="w3-opacity">May 5, 2018</span></h5>
+                                                        </div>
+
+                                                        <div class="w3-container">
+                                                                        <p>1.   <b>What did you like the least about the class?</b><br>
+My least favorite part about this class was by far the format of the exams. I don't think it's a good idea to have hackerrank exams in a class were most of the students are learning c++ for the first time.</br>
+The way hackerrank works makes syntax errors (which are normal to happen when you just learned the language) take up a lot of time.</br>
+In addition, in class we tried to do hackerrank exercises and usually 15 minutes was not enough, so it would make sense that 90 minutes for 7 of those exercises was not enough.</br>
+2.  <b>What did you like the most about the class?</b><br>
+There were many things that I appreciated in this class. I feel pretty comfortable in c++ now, even though I couldn't write a simple HelloWorld.c++ back in January.<br>
+I think that Professor Downing does an exceptional job in making sure that students are following, and can be funny sometimes as well.<br>
+3.  <b>What's the most significant thing you learned?</b><br>
+What I value the most is learning c++, but learning it to a point that I can single out advantages and disadvantages of it in comparison to Java, and maybe even decide that one or the other is best for a given project.<br>
+4.  <b>How many hours a week did you spend coding for this class?</b><br>
+That would vary from week to week depending on when the assignments were due, on average I would say 6.<br>
+5.  <b>How many hours a week did you spend reading for this class?</b><br>
+I will be honest, I did not buy the book, and I barely read the free chapters online. However, I enjoyed the articles that were linked on the website, and I read them every week so probably 1 hour or so.<br>
+I now follow Joel Spolsky on Twitter, I really like his articles.<br>
+  6.  <b>How many lines of code do you think you wrote?</b><br>
+  In total? that's a hard question ... I would say in the order of thousands counting hackerrank exercises and projects.<br>
+  7.  <b>What required tool did you not know and now find very useful?</b><br>
+  I appreciate having learned how to use Travis CI. Although it might have been 'overkill' for the types of projects we did, Continuous Integration is used everywhere, so I value that.<br>
+  8.  <b>If you could change one thing about the course, what would it be?</b><br>
+  I would definitely change the format of the exams, or give more time for them, not everyone is fast at coding, and Syntax Errors can take some time. I think there are more effective ways of assessing students' grasp of the material.<br>     
+</p>
+
+
+
+                                    <div class="w3-row">
+                                                    <div class="w3-col m8 s12">
+                                                                                                                                </div>
+                                                                                                                                        <div class="w3-col m4 w3-hide-small">
+                                                                                                                                                                </div>
+                                                                                                                                                                        </div>
+                                                                                                                                                                                </div>
+                                                                                                                                                                                </div>
+                                                                                                                                                                                <!-- END BLOG ENTRIES -->
+                                                                                                                                                                        </div>
+
+                                                                                                                                                                        <!-- Introduction menu -->
+                                                                                                                                                                        <div class="w3-col l4" style="padding-left:75px;">
+                                                                                                                                                                                <!-- About Card -->
+                                                                                                                                                                                <div class="w3-card w3-margin w3-margin-top " style="width:300px">
+                                                                                                                                                                                                <img src="/cs371p/img/Uriel_Kugelmass.jpg" style="width:300px;height:300px">
+                                                                                                                                                                                                <div class="w3-container w3-white">
+                                                                                                                                                                                                                <h4><b>Uriel Kugelmass</b></h4>
+                                                                                                                                                                                                                        <p>Born and raised in <a href="https://www.youtube.com/watch?v=rmME84YizBI">Uruguay</a>, I decided to study in United States when I was 15.<br> Besides technology, I also enjoy sports -Soccer in particular- and reading books.</p>                                                                                                                                                                                                                                                                                                                                                                                                                          </div>
+                                                                                                                                                                                                                        </div><hr>
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <!-- END Introduction Menu -->
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </div>
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <!-- END GRID -->
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </div><br>
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <!-- END w3-content -->
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </div>
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </body>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </html>
